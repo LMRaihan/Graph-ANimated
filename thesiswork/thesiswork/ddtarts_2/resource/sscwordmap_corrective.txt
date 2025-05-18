@@ -1,0 +1,15 @@
+MODIFY_CONNECT--> fix:36 issu:10 not:9 bug:7 work:5 fail:4 resolv:3 problem:3 except:2 error:2 do:2 correct:2 updat:2 without:2 avoid:2 doe:1 contain:1 into:1 isnt:1 until:1 make:1 reloc:1 hack:1 incorrect:1 lost:1 didn’t:1 implement:1 bugfix:1 forgot:1 stuck:1 test:1 get:1 quickfix:1 should:1 npe:1 doesn’t:1 valid:1 and:1
+MODIFY_API_DISCONNECT--> fix:15 issu:9 resolv:4 bug:3 except:2 problem:2 stuck:2 bugfix:2 not:2 illeg:1 got:1 rid:1 of:1 build:1 error:1 correct:1 should:1 correctli:1 conflict:1 doe:1 be:1 broken:1
+MODIFY_NEW_API_METHOD--> fix:9 issu:7 resolv:3 error:1 order:1 warn:1 doe:1 not:1 should:1 make:1 work:1 avoid:1 implement:1 null:1 bug:1 test:1
+NON_M2M--> fix:42 issu:17 not:9 resolv:5 bug:5 work:4 except:3 error:3 doe:2 problem:2 warn:2 without:2 avoid:2 race:1 condit:1 illeg:1 forc:1 close:1 prevent:1 consuimg:1 do:1 contain:1 into:1 fail:1 fixup:1 order:1 isnt:1 until:1 properli:1 can:1 make:1 reloc:1 lost:1 updat:1 implement:1 bugfix:1 correct:1 null:1 build:1 get:1 should:1 npe:1 disappear:1 conflict:1 stuck:1 doesn’t:1 be:1 broken:1
+MODIFY_API_CONNECT--> fix:39 issu:14 bug:7 not:5 work:5 resolv:5 error:4 except:3 warn:3 should:3 correct:3 illeg:2 doe:2 order:2 avoid:2 bugfix:2 race:1 condit:1 prevent:1 consuimg:1 problem:1 fixup:1 noth:1 properli:1 can:1 make:1 wrong:1 implement:1 real:1 null:1 test:1 ensur:1 endless:1 get:1 do:1 correctli:1 disappear:1 be:1 broken:1
+CLASS_ADD--> fix:4 issu:4 work:3 resolv:3 not:2 avoid:2 race:1 condit:1 forc:1 close:1 doe:1 fail:1 bug:1 properli:1 make:1 problem:1 lost:1 updat:1 implement:1 correct:1 bugfix:1 should:1 correctli:1
+CONSTRUCTOR_MODIFY--> resolv:2 issu:2 illeg:1 except:1 should:1 not:1
+MODIFY_NEW_METHOD--> fix:13 issu:5 not:4 work:3 resolv:2 without:2 doe:1 error:1 bug:1 reloc:1 problem:1 avoid:1 implement:1 stuck:1 test:1 get:1
+MODIFY_DISCONNECT--> fix:9 issu:2 correct:2 contain:1 into:1 fail:1 isnt:1 until:1 resolv:1 got:1 rid:1 of:1 problem:1 bug:1 not:1 correctli:1 didn’t:1 bugfix:1 avoid:1 ensur:1
+MODIFY_DELETE_API_METHOD--> resolv:2 issu:2 fix:1 problem:1
+CLASS_MOVE--> fix:1 issu:1
+METHOD_MOVE--> resolv:1 issu:1 fix:1 problem:1 lost:1
+MODIFY_DELETE_METHOD--> resolv:1 issu:1
+MO_CONNECT--> fix:4 resolv:1 issu:1 without:1 test:1 bug:1
+CLASS_DELETE--> resolv:2 issu:2 fix:1
